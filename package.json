@@ -1,0 +1,12 @@
+{
+  "name": "style-idea",
+  "version": "1.0.0",
+  "description": "Neoul wiki style with scss",
+  "main": "index.js",
+  "repository": "https://github.com/neoul-wiki/style-idea",
+  "author": "hyeyoom <neoul_chw@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
